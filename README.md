@@ -1,9 +1,10 @@
+# wecom-api
+
+[![version](https://img.shields.io/npm/v/wecom-api)](https://npm.js) ![license](https://img.shields.io/github/license/evgo2017/wecom-api) [![downloads](https://img.shields.io/npm/dt/wecom-api)](<https://www.npmjs.com/package/wecom-api> ) [![fork](https://img.shields.io/github/forks/evgo2017/wecom-api?style=social)](https://github.com/evgo2017/wecom-api)
 
 根据个人需求不定时不定量更新。欢迎提 Issues。
 
-目前 License 为 GPL，个人用途可闭源，若有需求或者商用请[联系我](https://evgo2017.com/link)，之后版本会修改 License。
-
-
+目前 License 为 GPL，个人用途可闭源，若有需求或者商用请[联系我](https://evgo2017.com/link)。
 
 参考[官方 API 文档](https://work.weixin.qq.com/api/doc/90000/90135/90664)
 
